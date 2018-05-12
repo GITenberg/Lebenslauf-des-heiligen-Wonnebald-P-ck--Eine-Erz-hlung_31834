@@ -1,0 +1,29 @@
+_repo: Lebenslauf-des-heiligen-Wonnebald-P-ck--Eine-Erz-hlung_31834
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huch, Ricarda
+    alias: Huch, Ricarda Octavia
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '7189'
+    url: http://www.gutenberg.org/2009/agents/7189
+    wikipedia: http://de.wikipedia.org/wiki/Ricarda_Huch
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31834'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+title: 'Lebenslauf des heiligen Wonnebald Pück: Eine Erzählung'
+url: http://www.gutenberg.org/ebooks/31834
